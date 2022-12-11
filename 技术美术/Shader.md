@@ -73,7 +73,7 @@ Shader "ShaderName" {
 
 **_Cube**
 
-![image-20221203225337865](./assets/image-20221203225337865.png)
+![image-20221203225337865](../assets/image-20221203225337865.png)
 
 ------
 
